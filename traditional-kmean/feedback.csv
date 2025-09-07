@@ -1,0 +1,3 @@
+timestamp,feedback,age,total_income,city,rent_spending,food_spending,transport_spending,shopping_spending,entertainment_spending,goal_amount,goal_months,risk_profile,rent_fixed,transport_fixed,predicted_cluster,suggested_rent,suggested_food,suggested_transport,suggested_shopping,suggested_entertainment,suggested_savings
+2025-09-07 20:57:30,like,25,20000000,Ho Chi Minh City,5000000,4000000,1500000,1500000,1000000,50000000,12,An toàn,False,False,4,5500000,5580000,2080000,1680000,1419999,3740000
+2025-09-07 20:57:48,dislike,25,25000000,Ho Chi Minh City,5000000,5000000,1500000,1500000,1000000,50000000,12,An toàn,False,False,4,6875000,6975000,2600000,2100000,1774999,4675000
